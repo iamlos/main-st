@@ -28,13 +28,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/iamlos/main-st/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Main St Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Main St</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome template to jumpstart your projects!
     <br />
     <a href="[https://github.com/iamlos/main-st/](https://github.com/iamlos/main-st/)"><strong>Explore the docs »</strong></a>
     <br />
